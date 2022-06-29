@@ -1,5 +1,3 @@
-## 
-
 ## Hi,I am Crilwa.
 
 ## About me
