@@ -1,7 +1,12 @@
-### Hi there 👋
+## 
 
-Here is Crilwa from D0g3.
+## Hi,I am Crilwa.
 
-A Web Security Developer😊.
+## About me
 
-My blog : [XD (nekopunch.cn)](http://nekopunch.cn/)
+- From D0g3 team.
+- Currently studying at CUIT.
+- A Web Security Developer😊.
+
+- My blog : [XD (nekopunch.cn)](http://nekopunch.cn/)
+
